@@ -1,4 +1,4 @@
-# Munic-pios-paraenses-de-Maior-Efici-ncia-no-PAA
+# Municípios paraenses de Maior Eficiência no PAA
 
 Este repositório contém um mapa interativo que destaca os municípios do estado do Pará com maior eficiência no Programa de Aquisição de Alimentos (PAA) . O objetivo é fornecer uma visualização geográfica para identificar os municípios beneficiados e suas respectivas classificações de eficiência.
 
